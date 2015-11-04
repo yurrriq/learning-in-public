@@ -1,6 +1,11 @@
 * Learning in Public
 Meta-repo to collect my public learnings.
 
+** [[https://github.com/ninenines/cowboy/tree/master/examples][Cowboy Examples]]
+[[https://github.com/yurrriq/lfe-cowboy-examples][yurrriq/lfe-cowboy-examples]]: Ported to LFE, obviously.
+- [[http://ninenines.eu/docs/en/cowboy/1.0/guide/introduction/][Intro to Cowboy]]
+- [[https://github.com/joshrotenberg/elixir_cowboy_examples][Abandoned(?) Elixir ports]]
+
 ** [[https://www.manning.com/books/erlang-and-otp-in-action][:book: Erlang and OTP in Action]]
 [[https://github.com/yurrriq/simple_cache][yurrriq/simple_cache]]: The application from the book ported to [[https://github.com/rvirding/lfe][LFE]], in various iterations (branches).
 
