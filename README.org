@@ -1,5 +1,8 @@
 * Learning in Public
 Meta-repo to collect my public learnings.
 
-** [[https://doc.rust-lang.org/stable/book/][:book:]] The Rust Programming Language
+** [[https://doc.rust-lang.org/stable/book/][:book: The Rust Programming Language]]
 [[https://github.com/yurrriq/the-rust-programming-language][yurrriq/the-rust-programming-language]]: My code and notes to future me.
+
+** [[https://www.manning.com/books/erlang-and-otp-in-action][:book: Erlang and OTP in Action]]
+[[https://github.com/yurrriq/simple_cache][yurrriq/simple_cache]]: The application from the book ported to [[https://github.com/rvirding/lfe][LFE]], in various iterations (branches).
