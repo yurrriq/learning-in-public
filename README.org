@@ -1,5 +1,5 @@
 * Learning in Public
 Meta-repo to collect my public learnings.
 
-** The Rust Programming Language [[https://doc.rust-lang.org/stable/book/][:book:]]
+** [[https://doc.rust-lang.org/stable/book/][:book:]] The Rust Programming Language
 [[https://github.com/yurrriq/the-rust-programming-language][yurrriq/the-rust-programming-language]]: My code and notes to future me.
