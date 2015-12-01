@@ -1,7 +1,13 @@
-* Learning in Public
-Meta-repo to collect my public learnings.
+#+TITLE: Learning in Public
+#+SUBTITLE: Meta-repo to collect my public learnings.
+#+AUTHOR: Eric Bailey
 
-** [[https://github.com/ninenines/cowboy/tree/master/examples][Cowboy Examples]]
+* Coq
+** [[https://coq.inria.fr][:notebook: Learning Coq]]
+[[https://github.com/yurrriq/learning-coq][yurrriq/learning-coq]]: My (literate) code and notes to future me.
+
+* (Lisp Flavoured) Erlang
+** [[https://github.com/ninenines/cowboy/tree/master/examples][:cow::boy: Cowboy Examples]]
 [[https://github.com/yurrriq/lfe-cowboy-examples][yurrriq/lfe-cowboy-examples]]: Ported to LFE, obviously.
 - [[http://ninenines.eu/docs/en/cowboy/1.0/guide/introduction/][Intro to Cowboy]]
 - [[https://github.com/joshrotenberg/elixir_cowboy_examples][Abandoned(?) Elixir ports]]
@@ -9,5 +15,6 @@ Meta-repo to collect my public learnings.
 ** [[https://www.manning.com/books/erlang-and-otp-in-action][:book: Erlang and OTP in Action]]
 [[https://github.com/yurrriq/simple_cache][yurrriq/simple_cache]]: The application from the book ported to [[https://github.com/rvirding/lfe][LFE]], in various iterations (branches).
 
+* Rust
 ** [[https://doc.rust-lang.org/stable/book/][:book: The Rust Programming Language]]
 [[https://github.com/yurrriq/the-rust-programming-language][yurrriq/the-rust-programming-language]]: My code and notes to future me.
